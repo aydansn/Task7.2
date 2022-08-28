@@ -1,0 +1,11 @@
+ilk once giririk githuba , daha sonra linki kopyaliyiriq gelirik desktopa.
+desktopda sag klike basirig Git Bush a basiriq.
+daha sonra yaziriq bunlari:
+1) git clone https://github.com/aydansn/Task7-1.git
+2) cd Task7-1 (bunu yaziriqki qovluqun icine kecid edek)
+3) qovluqu doldururuq
+4) qayidiriq terminala ve yaziriq
+5) git add .
+6) git commit -m "first"
+7) git push 
+vessalam!
